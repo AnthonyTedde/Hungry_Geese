@@ -1,3 +1,6 @@
 [submodule "agents/tf_agents"]
 	path = agents/tf_agents
 	url = https://github.com/tensorflow/agents.git
+[submodule "gin-config/gin"]
+	path = gin-config/gin
+	url = https://github.com/google/gin-config
